@@ -2,13 +2,13 @@ module.exports = {
   siteMetadata: {
     title: `My Writer Hat`,
     author: {
-      name: `Shubham Pandey`,
+      name: `Kaushal Pandey`,
       summary: `who is a software developer, and a people person with many hobbies.`,
     },
-    description: `The writers hat of Shubham Pandey, software developer`,
-    siteUrl: `https://pandeyshubham.com/`,
+    description: `The writers hat of Kaushal Pandey, software developer`,
+    siteUrl: `https://kaushalpandey.dev/`,
     social: {
-      twitter: `pandeyshubham75`,
+      twitter: `Kaushal196`,
     },
   },
   plugins: [
@@ -60,7 +60,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `My Writer Hat - Shubham Pandey`,
+        name: `My Writer Hat - Kaushal Pandey`,
         short_name: `MyWriterHat`,
         start_url: `/`,
         background_color: `#ffffff`,
